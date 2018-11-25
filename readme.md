@@ -3,7 +3,7 @@
 Forces permalinks (posts, pages, etc) and other slugs (filenames, etc) to be transliterated to their Latin equivalent for better SEO and readability.
 
 * [Plugin homepage](https://www.littlebizzy.com/plugins/latin-slugs)
-* [Download (WordPress.org)](https://wordpress.org/plugins/latin-slugs-littlebizzy)
+* [Download (WordPress.org)](https://wordpress.org/plugins/latin-slugs-littlebizzy/)
 * [Free Facebook group](https://www.facebook.com/groups/littlebizzy/)
 
 ### Defined Constants
